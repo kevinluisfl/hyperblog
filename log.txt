@@ -1,0 +1,23 @@
+commit e4e75d4c39979e504c0ccee98e6728051e52204f
+Author: Kevin Florez <ing.kevinflorez@gmail.com>
+Date:   Fri Oct 30 22:13:28 2020 -0500
+
+    arranco mi poryecto html y css
+
+commit 025c6067a4a842a01442825bacb7695972a932a2
+Author: Kevin Florez <ing.kevinflorez@gmail.com>
+Date:   Fri Oct 30 21:43:57 2020 -0500
+
+    se agrego perfil
+
+commit 2bd2328f92383c216fa07f05987d9eee5739ae4f
+Author: Kevin Florez <ing.kevinflorez@gmail.com>
+Date:   Fri Oct 30 11:48:38 2020 -0500
+
+    nuevos cambios de nacimiento
+
+commit 7058cc95398555d576472fb029bc5d84ea17ae8f
+Author: Kevin Florez <ing.kevinflorez@gmail.com>
+Date:   Fri Oct 30 11:43:36 2020 -0500
+
+    Este es el primer commit de el archivo
